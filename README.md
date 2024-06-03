@@ -17,3 +17,4 @@ This React-based Password Generator creates strong, customizable passwords. User
 - **CSS**: For styling the application.
 - **JavaScript**: Core programming language used in React for logic and functionality.
 
+## Installation
